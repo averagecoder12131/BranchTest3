@@ -10,6 +10,12 @@ public class Main {
         System.out.print("Hello and wasdelcome!");
         System.out.print("Hello and wasdelcome!");
 
+        System.out.print("Hello and wasdelcome!");
+        System.out.print("Hello and wasdelcome!");
+        System.out.print("Hello and wasdelcome!");
+        System.out.print("Hello and wasdelcome!");
+        System.out.print("Hello and wasdelcome!");
+
 
     }
 }
